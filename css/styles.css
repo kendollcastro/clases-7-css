@@ -1,0 +1,12 @@
+#header, #h1principal{
+    font-family: fantasy;
+    color: white;
+    text-align: left;
+    font-size: 100px;
+    background-image: url(../img/img1.png);
+    width: 1430px;
+    height: 600px;
+    background-position: left;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
